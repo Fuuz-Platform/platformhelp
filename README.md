@@ -1,2 +1,2 @@
-# platformhelp
-Testing this out as a place to create a Fuuz Help listing in github
+# Platform Help Articles and KB
+A curated place for all help related information on the Fuuz Platform.
